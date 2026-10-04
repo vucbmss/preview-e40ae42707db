@@ -1,0 +1,7 @@
+/* Explicit static fallback for the existing component styles omitted by this Astro build.
+   Scoped equivalents of PersonCard, Alumni and Publications; no design change. */
+.team-content .person-row{scroll-margin-top:270px}.team-content .without-photo{grid-template-columns:1fr;min-height:0;padding:24px;gap:0}.team-content .without-photo .person-role{margin-top:12px}
+.alumni-catalog h2,.alumni-catalog .degree-heading{text-align:center;font-family:oswald-medium,oswald,sans-serif;font-weight:400;margin:32px 0}.alumni-catalog h2{font-size:30px}.alumni-catalog .degree-heading{font-size:25px}.alumni-catalog .stage-reference{padding:16px;line-height:1.5}
+.scholarly-outputs{font-family:cormorantgaramond-semibold,'Cormorant Garamond',serif;font-size:22px;line-height:1.4}.scholarly-outputs .output-heading,.scholarly-outputs h3{font-family:oswald-medium,oswald,sans-serif;color:#072382;font-style:italic;font-weight:400}.scholarly-outputs .output-heading{font-size:30px;margin:0 0 32px}.scholarly-outputs h3{font-size:28px;margin:30px 0 22px}.scholarly-outputs ol{padding-left:2.4em;margin:0}.scholarly-outputs li{padding-left:.15em;margin:0 0 1.4em;overflow-wrap:anywhere}.scholarly-outputs #conference-publications{margin-top:70px}.scholarly-outputs a{color:inherit;text-decoration:underline}
+@media(max-width:700px){.team-content .person-row{scroll-margin-top:20px}}
+@media(max-width:600px){.scholarly-outputs{font-size:21px}.scholarly-outputs .output-heading{font-size:27px}}
