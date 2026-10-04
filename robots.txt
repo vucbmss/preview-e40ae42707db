@@ -1,0 +1,3 @@
+# Crawling must remain allowed so engines can read the noindex meta tag.
+User-agent: *
+Allow: /

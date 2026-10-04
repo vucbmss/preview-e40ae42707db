@@ -1,0 +1,12 @@
+@font-face{font-family:'oswald-medium';font-style:normal;font-weight:100 900;font-display:swap;src:url('./font-oswald.ttf') format('truetype')}
+@font-face{font-family:'oswald';font-style:normal;font-weight:100 900;font-display:swap;src:url('./font-oswald.ttf') format('truetype')}
+@font-face{font-family:'avenir-lt-w01_35-light1475496';font-style:italic;font-weight:100 900;font-display:swap;src:url('./font-nunitosans-italic.ttf') format('truetype')}
+@font-face{font-family:'helvetica-w01-roman';font-style:italic;font-weight:100 900;font-display:swap;src:url('./font-nunitosans-italic.ttf') format('truetype')}
+@font-face{font-family:'avenir-lt-w01_35-light1475496';font-style:normal;font-weight:100 900;font-display:swap;src:url('./font-nunitosans.ttf') format('truetype')}
+@font-face{font-family:'helvetica-w01-roman';font-style:normal;font-weight:100 900;font-display:swap;src:url('./font-nunitosans.ttf') format('truetype')}
+@font-face{font-family:'cormorantgaramond-semibold';font-style:italic;font-weight:100 900;font-display:swap;src:url('./font-cormorantgaramond-italic.ttf') format('truetype')}
+@font-face{font-family:'cormorantgaramond';font-style:italic;font-weight:100 900;font-display:swap;src:url('./font-cormorantgaramond-italic.ttf') format('truetype')}
+@font-face{font-family:'cormorantgaramond-semibold';font-style:normal;font-weight:100 900;font-display:swap;src:url('./font-cormorantgaramond.ttf') format('truetype')}
+@font-face{font-family:'cormorantgaramond';font-style:normal;font-weight:100 900;font-display:swap;src:url('./font-cormorantgaramond.ttf') format('truetype')}
+@font-face{font-family:'kepler-w03-light-scd-cp';font-style:italic;font-weight:100 900;font-display:swap;src:url('./font-sourceserif4-italic.ttf') format('truetype')}
+@font-face{font-family:'kepler-w03-light-scd-cp';font-style:normal;font-weight:100 900;font-display:swap;src:url('./font-sourceserif4.ttf') format('truetype')}
